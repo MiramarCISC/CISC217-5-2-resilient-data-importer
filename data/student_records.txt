@@ -1,0 +1,6 @@
+s001,Ada Lovelace,95
+s002,Grace Hopper,88.5
+s003,李雷,91
+s004,Invalid Score,excellent
+,Missing ID,77
+s005,Out of Range,120
